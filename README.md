@@ -8,9 +8,6 @@
 
 [[`published version`]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223000309)
 
-<div align="center">
-  <img src="./assets/MiSLAS.PNG" style="zoom:90%;"/>
-</div><br/>
 
 **Introduction**: This repository provides an implementation for our paper "[Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning](https://arxiv.org/abs/2204.08735)" published on [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing). This repository is based on [MiSLAS](https://github.com/dvlab-research/MiSLAS). ARBLOSS can achieve state-of-the-art performance via only one-stage training instead of 2-stage learning like nowadays SOTA works.
 
